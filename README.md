@@ -3,10 +3,10 @@
 
 
 - 🔭 I’m currently an undergraduate
-- 🌱 I’m currently learning React and Flutter
+- 🌱 I’m currently learning some of new technologies
 - 💬 Ask me about: Java,PHP and C
-- 📫 How to reach me: afraj.2011@gmail.com.
-- - ⚡ Fun fact: I do lot of stuffs.
+- 📫 How to reach me: afraj.2011@gmail.com
+- - ⚡ Fun fact: I do lots of stuffs
  <!--
 **afraj18/afraj18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
