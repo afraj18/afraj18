@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently an undergraduate
 - 🌱 I’m currently learning some of new technologies
-- 💬 Ask me about: Java,PHP and C
+- 💬 Ask me about: Java,JS,Python and C
 - 📫 How to reach me: afraj.2011@gmail.com
 - ⚡ Fun fact: I do lots of stuffs
 
