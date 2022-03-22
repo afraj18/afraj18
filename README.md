@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning some of new technologies
 - 💬 Ask me about: Java,JS,Python and C
 - 📫 How to reach me: afraj.2011@gmail.com
-- ⚡ Fun fact: I do lots of stuffs
+- ⚡ Fun fact: I do lots of stuffs.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
