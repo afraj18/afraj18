@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraj18&label=Profile%20views&color=0e75b6&style=flat" alt="afraj18" /> </p>
 
 - 🔭 I’m currently an undergraduate
-- 🌱 I’m currently learning some of new technologies
+- 🌱 Currently I learning some of new technologies
 - 💬 Ask me about: Java,JS,Python and C
 - 📫 How to reach me: afraj.2011@gmail.com
 - ⚡ Fun fact: I do lots of stuffs.
