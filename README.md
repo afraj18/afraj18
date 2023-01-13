@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-
+<!-- m -->
 [![Afraj's mostly used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afraj18)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afraj18&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
