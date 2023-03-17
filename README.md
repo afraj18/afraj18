@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently an undergraduate
 - ⚡  Intern Software Engineer at Infor 
-- 🌱 Currently I learning some of new technologies
+- 🌱 Currently I'm learning some of new technologies
 - 💬 Ask me about: Java, JS, Python and C | SpringBoot, React JS, FLUTTER, Laravel
 - 📫 How to reach me: afraj.2011@gmail.com
 - ⚡ Fun fact: Cricket data analysis is my passion.
