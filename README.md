@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 Currently I'm learning some of new technologies
 - 💬 Ask me about: Java, JS, Python and C | SpringBoot, React JS, FLUTTER, Laravel
 - 📫 How to reach me: afraj.2011@gmail.com
-- ⚡ Fun fact: Cricket data analysis is my passion.
+- ⚡ Fun fact: Cricket data analysis is my passion..
 - <a href='https://afraj18.github.io'>My Portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
