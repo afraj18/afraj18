@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Cricket data analysis is my passion..
 - <a href='https://afraj18.github.io'>My Portfolio </a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3 >
 <p align="left">
 <a href="https://twitter.com/afraj1800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afraj1800" height="30" width="40" /></a>
 </p >
