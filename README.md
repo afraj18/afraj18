@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohamed Afraj</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraj18&label=Profile%20views&color=0e75b6&style=flat" alt="afraj18" /> </p>
 
-- 🔭 I’m currently an undergraduate
+- 🔭 I’m currently an associate software engineer
 - ⚡  Intern Software Engineer at Infor 
 - 🌱 Currently I'm learning some of new technologies
-- 💬 Ask me about: Java, JS, Python and C | SpringBoot, React JS, FLUTTER, Laravel
+- 💬 Ask me about: Java, JS, Php and Python | SpringBoot, AngularJS, React JS, Flutter, Laravel
 - 📫 How to reach me: afraj.2011@gmail.com
 - ⚡ Fun fact: Cricket data analysis is my passion..
 - <a href='https://afraj18.github.io'>My Portfolio </a>
