@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraj18&label=Profile%20views&color=0e75b6&style=flat" alt="afraj18" /> </p>
 
 - 🔭 I’m currently an associate software engineer
-- ⚡  Intern Software Engineer at Infor GT NEXUS 
+- ⚡  Associate Software Engineer at BayLanka Technologies
+- ⚡  Former Intern Software Engineer at Infor GT NEXUS 
 - 🌱 Currently I'm learning some of new technologies
 - 💬 Ask me about: Java, JS, Php and Python | SpringBoot, AngularJS, React JS, Flutter, Laravel
 - 📫 How to reach me: afraj.2011@gmail.com
